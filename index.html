@@ -20,10 +20,11 @@
       class="container-fluid d-flex flex-column p-3 mx-auto h-100 text-center text-white"
     >
       <header class="mb-auto pt-3">
-        <h3 class="masthead-brand">Portofolio</h3>
+        <h3 class="masthead-brand">Cover</h3>
         <nav class="nav nav-masthead justify-content-center">
-          <a class="nav-link active" href="#">Αρχική</a>
-          <a class="nav-link" href="#">Επικοινωνία</a>
+          <a class="nav-link active" href="#">Home</a>
+          <a class="nav-link" href="#">Features</a>
+          <a class="nav-link" href="#">Contact</a>
         </nav>
       </header>
 
@@ -38,7 +39,17 @@
         <!-- <p class="lead">
           <a href="#" id="buttonMain" class="btn btn-lg btn-secondary text-black font-weight-bold">Learn more</a>
         </p> -->
-        <a href="#" id="buttonMain" class="btn btn-lg btn-secondary text-black font-weight-bold">Περισσότερα</a>
+        <!-- <a
+          href="#"
+          id="buttonMain"
+          class="btnMain"
+          >Περισσότερα</a
+        > -->
+        <div class="containsBtn">
+          <button id="mainBtn">
+            Περισσότερα
+          </button>
+        </div>
       </main>
 
       <footer class="mt-auto pt-3">
@@ -73,26 +84,15 @@
     background-color: #373a47;
   }
 
-  header {
+  /* header {
     border-bottom: 2px dashed rgba(255,255,255,0.1);
-  }
+  } */
 
   #comingSoon {
     text-shadow: 0 0 10px rgba(255, 99, 71, 1);
   }
 
-  #buttonMain {
-    background: rgba(255, 99, 71, 1);
-  }
-
-  #buttonMain:hover {
-      box-shadow: rgba(255, 99, 71, 1);
-  }
-
-  #buttonMain:active {
-    background: rgb(255, 252, 252);
-    color: black;
-  }
+  
 
   /* blinking cursor */
   .blinkingCursor {
@@ -118,6 +118,6 @@
   }
 
   footer {
-    border-top: 2px dashed rgba(255,255,255,0.1);
+    border-top: 1.5px dashed rgba(255, 255, 255, 0.1);
   }
 </style>
