@@ -36,20 +36,20 @@
           Η σελίδα παροουσίασης πορτοφολίου είναι υπό κατασκευή. Επισκεφτείτε το
           προφίλ μου στο Github για να δείτε τα ολοκληρωμένα πρότζεκτ μου.
         </p>
-        <!-- <p class="lead">
-          <a href="#" id="buttonMain" class="btn btn-lg btn-secondary text-black font-weight-bold">Learn more</a>
-        </p> -->
+        <p id="mainBtn" class="lead">
+          <a
+            href="#"
+            id="buttonMain"
+            class="btn btn-lg btn-secondary text-black font-weight-bold"
+            >Περισσότερα</a
+          >
+        </p>
         <!-- <a
           href="#"
           id="buttonMain"
           class="btnMain"
           >Περισσότερα</a
         > -->
-        <div class="containsBtn">
-          <button id="mainBtn">
-            Περισσότερα
-          </button>
-        </div>
       </main>
 
       <footer class="mt-auto pt-3">
@@ -92,7 +92,15 @@
     text-shadow: 0 0 10px rgba(255, 99, 71, 1);
   }
 
-  
+  #mainBtn a{
+    background-color: rgba(255, 99, 71, 1);
+  }
+
+  #mainBtn a:hover{
+    background-color: white;
+    color: rgba(255, 99, 71, 1);
+    box-shadow: rgba(255, 99, 71, 0.5);
+  }
 
   /* blinking cursor */
   .blinkingCursor {
