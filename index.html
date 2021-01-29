@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="el">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+      crossorigin="anonymous"
+    />
+
+    <title>Κορναράκης | Portofolio</title>
+  </head>
+  <body>
+    <div
+      class="container-fluid d-flex flex-column p-3 mx-auto h-100 text-center text-white"
+    >
+      <header class="mb-auto pt-3">
+        <h3 class="masthead-brand">Portofolio</h3>
+        <nav class="nav nav-masthead justify-content-center">
+          <a class="nav-link active text-white" href="#">Αρχική</a>
+          <a class="nav-link text-white" href="#">Projects</a>
+          <a class="nav-link text-white" href="#">Επικοινωνία</a>
+        </nav>
+      </header>
+
+      <main role="main">
+        <p id="comingSoon" class="h1 font-weight-bold">
+          Έρχεται σύντομα...<span class="blinkingCursor"></span>
+        </p>
+        <p class="lead">
+          Η σελίδα παροουσίασης πορτοφολίου είναι υπό κατασκευή. Επισκεφτείτε το
+          προφίλ μου στο Github για να δείτε τα ολοκληρωμένα πρότζεκτ μου.
+        </p>
+        <p id="mainBtn" class="lead">
+          <a
+            href="https://github.com/sahgon/portofolio/tree/master"
+            id="buttonMain"
+            class="btn btn-lg btn-secondary text-black font-weight-bold"
+            >Επίσκεψη</a
+          >
+        </p>
+
+        <!-- Test button below -->
+        
+      </main>
+
+      <footer class="mt-auto pt-3">
+        <p>
+          Δημιουργήθηκε από τον
+          <span id="name">Κωνσταντίνο Ιωάννη Κορναράκη</span> με
+          <a href="https://getbootstrap.com/">Bootstrap</a>.
+        </p>
+      </footer>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
+
+<style>
+  html,
+  body {
+    height: 100%;
+  }
+
+  html body {
+    /* background: url("https://source.unsplash.com/twukN12EN7c/1920x1080")
+      no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; */
+    background-color: #373a47;
+  }
+
+  /* header {
+    border-bottom: 2px dashed rgba(255,255,255,0.1);
+  } */
+
+  #comingSoon {
+    text-shadow: 0 0 10px rgba(255, 99, 71, 1);
+  }
+
+  #mainBtn a {
+    background-color: rgba(255, 99, 71, 1);
+  }
+
+  #mainBtn a:hover {
+    background-color: white;
+    color: rgba(255, 99, 71, 1);
+    box-shadow: rgba(255, 99, 71, 0.5);
+  }
+
+  #mainBtn a:active {
+    background-color: white;
+    color: rgba(255, 99, 71, 1);
+    box-shadow: rgba(71, 255, 117, 15);
+  }
+
+  /* blinking cursor */
+  .blinkingCursor {
+    animation-name: blinkCursor;
+    animation-iteration-count: infinite;
+    animation-timing-function: cubic-bezier(1, 0, 0, 1);
+    animation-duration: 0.75s;
+    display: inline-block;
+    width: 5px;
+    height: 40px;
+    margin-left: 7px;
+    box-shadow: 0 0 10px rgba(228, 194, 188, 0.5);
+    background: rgba(255, 99, 71, 1.0);
+  }
+
+  @keyframes blinkCursor {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+
+  footer {
+    border-top: 1.5px dashed rgba(255, 255, 255, 0.1);
+  }
+
+  footer #name {
+    color: rgba(255, 99, 71, 1);
+  }
+</style>
