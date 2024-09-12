@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cardealer>
+  <lastupdate>2024-09-12T06:13:27Z</lastupdate>
+  <classifieds>
+    <classified>
+      <unique_id>UID001</unique_id>
+      <aftermarket_number>AMN001</aftermarket_number>
+      <title><![CDATA[Product 1]]></title>
+      <description><![CDATA[Description for Product 1]]></description>
+      <category_id>101</category_id>
+      <price>199.99</price>
+      <makemodels>
+        <makemodel>
+          <make>Make1</make>
+          <model>Model1</model>
+          <yearfrom>2020</yearfrom>
+          <yearto>2023</yearto>
+        </makemodel>
+      </makemodels>
+      <photos>
+        <photo>photo1.jpg</photo>
+        <photo>photo2.jpg</photo>
+      </photos>
+      <condition>New</condition>
+      <condition_type>Aftermarket</condition_type>
+      <debatable>true</debatable>
+      <damaged>false</damaged>
+      <external_link>http://example.com/product1</external_link>
+      <youtube>http://youtube.com/video1</youtube>
+      <update_interval>30</update_interval>
+      <dealersonly>true</dealersonly>
+      <tags>
+        <tag>Tag1</tag>
+        <tag>Tag2</tag>
+      </tags>
+      <extra_fields>
+        <extra_field>[Field1, Value1]</extra_field>
+      </extra_fields>
+    </classified>
+    <classified>
+      <unique_id>UID002</unique_id>
+      <aftermarket_number>AMN002</aftermarket_number>
+      <title><![CDATA[Product 2]]></title>
+      <description><![CDATA[Description for Product 2]]></description>
+      <category_id>102</category_id>
+      <price>299.99</price>
+      <makemodels>
+        <makemodel>
+          <make>Make2</make>
+          <model>Model2</model>
+          <yearfrom>2018</yearfrom>
+          <yearto>2022</yearto>
+        </makemodel>
+      </makemodels>
+      <photos>
+        <photo>photo3.jpg</photo>
+        <photo>photo4.jpg</photo>
+      </photos>
+      <condition>Used</condition>
+      <condition_type>Original</condition_type>
+      <debatable>false</debatable>
+      <damaged>true</damaged>
+      <external_link>http://example.com/product2</external_link>
+      <youtube>http://youtube.com/video2</youtube>
+      <update_interval>60</update_interval>
+      <dealersonly>false</dealersonly>
+      <tags>
+        <tag>Tag3</tag>
+        <tag>Tag4</tag>
+      </tags>
+      <extra_fields>
+        <extra_field>[Field2, Value2]</extra_field>
+      </extra_fields>
+    </classified>
+  </classifieds>
+</cardealer>
