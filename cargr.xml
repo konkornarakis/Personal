@@ -33,9 +33,6 @@
         <tag>Tag1</tag>
         <tag>Tag2</tag>
       </tags>
-      <extra_fields>
-        <extra_field>[Field1, Value1]</extra_field>
-      </extra_fields>
     </classified>
     <classified>
       <unique_id>UID002</unique_id>
@@ -68,9 +65,6 @@
         <tag>Tag3</tag>
         <tag>Tag4</tag>
       </tags>
-      <extra_fields>
-        <extra_field>[Field2, Value2]</extra_field>
-      </extra_fields>
     </classified>
   </classifieds>
 </cardealer>
