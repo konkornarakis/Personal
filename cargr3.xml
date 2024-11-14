@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cardealer>
+  <lastupdate>2024-11-14T13:38:04Z</lastupdate>
+  <classifieds>
+    <classified>
+      <unique_id>7568</unique_id>
+      <manufacturer_number>73001MI</manufacturer_number>
+      <aftermarket_number />
+      <title><![CDATA[ARROW ΛΑΙΜΟΣ INOX RACING FOR URBAN EXHAUST PIAGGIO BEVERLY 500 CRUISER ’07-‘12]]></title>
+      <description><![CDATA[APRILIA SCARABEO 400 '06-'11
+APRILIA SCARABEO 500 '03-'06
+APRILIA SCARABEO 500 '07-'12
+PIAGGIO BEVERLY 500 '03-'08
+PIAGGIO BEVERLY 400 TOURER '08-'11
+PIAGGIO BEVERLY 400 '06-'10
+APRILIA SCARABEO 500 GT '05-'07]]></description>
+      <category_id>1</category_id>
+      <price>112</price>
+      <makemodels>
+        <makemodel>
+          <make>APRILIA</make>
+          <model>SCARABEO 400</model>
+          <yearfrom>2006</yearfrom>
+          <yearto>2011</yearto>
+        </makemodel>
+        <makemodel>
+          <make>APRILIA</make>
+          <model>SCARABEO 500</model>
+          <yearfrom>2003</yearfrom>
+          <yearto>2006</yearto>
+        </makemodel>
+        <makemodel>
+          <make>APRILIA</make>
+          <model>SCARABEO 500</model>
+          <yearfrom>2007</yearfrom>
+          <yearto>2012</yearto>
+        </makemodel>
+        <makemodel>
+          <make>PIAGGIO</make>
+          <model>BEVERLY 500</model>
+          <yearfrom>2003</yearfrom>
+          <yearto>2008</yearto>
+        </makemodel>
+        <makemodel>
+          <make>PIAGGIO</make>
+          <model>BEVERLY 400 TOURER</model>
+          <yearfrom>2008</yearfrom>
+          <yearto>2011</yearto>
+        </makemodel>
+        <makemodel>
+          <make>PIAGGIO</make>
+          <model>BEVERLY 400</model>
+          <yearfrom>2006</yearfrom>
+          <yearto>2010</yearto>
+        </makemodel>
+        <makemodel>
+          <make>APRILIA</make>
+          <model>SCARABEO 500 GT</model>
+          <yearfrom>2005</yearfrom>
+          <yearto>2007</yearto>
+        </makemodel>
+      </makemodels>
+      <photos>
+        <photo>https://www.papastavroushops.gr/docs/Images/Products/11020190-156-01.jpg</photo>
+      </photos>
+      <condition>new</condition>
+      <debatable>false</debatable>
+      <damaged>false</damaged>
+      <external_link>https://www.papastavroushops.gr/productlink/7568</external_link>
+    </classified>
+    <classified>
+      <unique_id>7973</unique_id>
+      <manufacturer_number>71463MI</manufacturer_number>
+      <aftermarket_number />
+      <title><![CDATA[ARROW ΣΥΝΔΕΣΜΟΣ INOX ΓΙΑ HONDA NC 750 S '16-'20]]></title>
+      <description><![CDATA[HONDA NC 700 S '12-'14
+HONDA NC 700 X '12-'13
+HONDA NC 700 D INTEGRA '12-'13
+HONDA INTEGRA 750 DCT '14-'15
+HONDA NC 750 S '14-'15
+HONDA NC 750 X '14-'15
+HONDA INTEGRA 750 DCT '16-'20
+HONDA NC 750 X '16-'20]]></description>
+      <category_id>1</category_id>
+      <price>128</price>
+      <makemodels>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 700 S</model>
+          <yearfrom>2012</yearfrom>
+          <yearto>2014</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 700 X</model>
+          <yearfrom>2012</yearfrom>
+          <yearto>2013</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 700 D INTEGRA</model>
+          <yearfrom>2012</yearfrom>
+          <yearto>2013</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>INTEGRA 750 DCT</model>
+          <yearfrom>2014</yearfrom>
+          <yearto>2015</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 750 S</model>
+          <yearfrom>2014</yearfrom>
+          <yearto>2015</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 750 X</model>
+          <yearfrom>2014</yearfrom>
+          <yearto>2015</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>INTEGRA 750 DCT</model>
+          <yearfrom>2016</yearfrom>
+          <yearto>2020</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 750 X</model>
+          <yearfrom>2016</yearfrom>
+          <yearto>2020</yearto>
+        </makemodel>
+      </makemodels>
+      <photos>
+        <photo>https://www.papastavroushops.gr/docs/Images/Products/11030190-031-01.jpg</photo>
+      </photos>
+      <condition>new</condition>
+      <debatable>false</debatable>
+      <damaged>false</damaged>
+      <external_link>https://www.papastavroushops.gr/productlink/7973</external_link>
+    </classified>
+  </classifieds>
+</cardealer>
