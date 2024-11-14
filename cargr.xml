@@ -1,98 +1,147 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <cardealer>
-  <lastupdate>2024-10-04T09:25:58Z</lastupdate>
+  <lastupdate>2024-11-14T13:05:05Z</lastupdate>
   <classifieds>
     <classified>
-      <unique_id>12299</unique_id>
+      <unique_id>7568</unique_id>
+      <product_make>ARROW</product_make>
+      <manufacturer_number>73001MI</manufacturer_number>
       <aftermarket_number />
-      <title><![CDATA[SUBURB AIR SHOES DAINESE BLACK/BLACK]]></title>
-      <description><![CDATA[&nbsp;
-
-Η άνεση, η πρακτικότητα και το σύγχρονο στυλ συνδυάζονται σε αυτά τα παπούτσια μοτοσικλέτας σε στυλ sneaker, ιδανικά για εξόδους στην πόλη ακόμη και τις πιο ζεστές ημέρες χάρη στην εξαιρετικά αεριζόμενη κατασκευή τους.
-
-Η ευέλικτη κατασκευή των Suburb Air Shoes τα καθιστά κατάλληλα για να φορεθούν τόσο πάνω όσο και έξω από τη μοτοσυκλέτα, ενώ η μέγιστη άνεση στο περπάτημα εξασφαλίζεται από την εξωτερική σόλα Groundtrax&reg; με ασύμμετρο σχεδιασμό, η οποία μεταβάλλεται ανάλογα με τους μοχλούς που χειρίζονται κατά την οδήγηση - μια τεχνολογία που αναπτύχθηκε ειδικά για να προσφέρει πρόσφυση, σταθερότητα και άνεση τόσο πάνω όσο και εκτός σέλας.
-
-ΧΑΡΑΚΤΗΡΙΣΤΙΚΆ
-
-
-	Bootstrap
-	Ελαστική ζώνη για την αποθήκευση των κορδονιών
-	Προστατευτικό κάλυμμα αλλαγής ταχυτήτων από PU
-	Εξωτερική σόλα από καουτσούκ Groundtrax&reg;, σχεδιασμένη για να προσφέρει ανώτερη άνεση στο περπάτημα
-	Υποπόδιο Ortholite με μακροπρόθεσμη αντικραδασμική προστασία και υψηλό επίπεδο αναπνοής
-
-
-ΕΡΓΟΝΟΜΙΑ
-
-
-	Κλείσιμο με κορδόνια
-
-
-ΚΥΡΙΑ ΥΛΙΚΑ
-
-
-	Αναπνεύσιμο επάνω μέρος από ύφασμα και μικροΐνες
-
-
-ΑΠΟΔΟΣΗ
-
-
-	Άκαμπτα ένθετα στην περιοχή του σφυροδακτυλίου με μαλακό D-Foam στην εσωτερική πλευρά
-	Παπούτσια πιστοποιημένα κατά CE - Cat. II - Πρότυπο EN 13634
-
-
-ΘΕΡΜΟΚΡΑΣΙΑ
-
-
-	Επένδυση από πλέγμα
-
-]]></description>
-      <category_id>900</category_id>
-      <price>161</price>
+      <title><![CDATA[ARROW ΛΑΙΜΟΣ INOX RACING FOR URBAN EXHAUST PIAGGIO BEVERLY 500 CRUISER ’07-‘12]]></title>
+      <description><![CDATA[APRILIA SCARABEO 400 '06-'11
+APRILIA SCARABEO 500 '03-'06
+APRILIA SCARABEO 500 '07-'12
+PIAGGIO BEVERLY 500 '03-'08
+PIAGGIO BEVERLY 400 TOURER '08-'11
+PIAGGIO BEVERLY 400 '06-'10
+APRILIA SCARABEO 500 GT '05-'07]]></description>
+      <category_id>1</category_id>
+      <price>112</price>
+      <makemodels>
+        <makemodel>
+          <make>APRILIA</make>
+          <model>SCARABEO 400</model>
+          <yearfrom>2006</yearfrom>
+          <yearto>2011</yearto>
+        </makemodel>
+        <makemodel>
+          <make>APRILIA</make>
+          <model>SCARABEO 500</model>
+          <yearfrom>2003</yearfrom>
+          <yearto>2006</yearto>
+        </makemodel>
+        <makemodel>
+          <make>APRILIA</make>
+          <model>SCARABEO 500</model>
+          <yearfrom>2007</yearfrom>
+          <yearto>2012</yearto>
+        </makemodel>
+        <makemodel>
+          <make>PIAGGIO</make>
+          <model>BEVERLY 500</model>
+          <yearfrom>2003</yearfrom>
+          <yearto>2008</yearto>
+        </makemodel>
+        <makemodel>
+          <make>PIAGGIO</make>
+          <model>BEVERLY 400 TOURER</model>
+          <yearfrom>2008</yearfrom>
+          <yearto>2011</yearto>
+        </makemodel>
+        <makemodel>
+          <make>PIAGGIO</make>
+          <model>BEVERLY 400</model>
+          <yearfrom>2006</yearfrom>
+          <yearto>2010</yearto>
+        </makemodel>
+        <makemodel>
+          <make>APRILIA</make>
+          <model>SCARABEO 500 GT</model>
+          <yearfrom>2005</yearfrom>
+          <yearto>2007</yearto>
+        </makemodel>
+      </makemodels>
       <photos>
-        <photo>https://www.papastavroushops.gr/docs/Images/Products/60c5445b-843b-4fe3-90e2-73bb56c7b821.jpg</photo>
-        <photo>https://www.papastavroushops.gr/docs/Images/Products/76c4bc70-5d5f-4a0c-afbd-2b0251981536.jpg</photo>
+        <photo>https://www.papastavroushops.gr/docs/Images/Products/11020190-156-01.jpg</photo>
       </photos>
       <condition>new</condition>
       <debatable>false</debatable>
       <damaged>false</damaged>
-      <external_link>https://www.papastavroushops.gr/productlink/12299</external_link>
+      <external_link>https://www.papastavroushops.gr/productlink/7568</external_link>
     </classified>
     <classified>
-      <unique_id>12404</unique_id>
+      <unique_id>7973</unique_id>
+      <product_make>ARROW</product_make>
+      <manufacturer_number>71463MI</manufacturer_number>
       <aftermarket_number />
-      <title><![CDATA[RIDGE V2 WP BOOTS ALPINESTARS BLACK/BLACK]]></title>
-      <description><![CDATA[&nbsp;
-
-Αδιάβροχες τεχνικές, ελαφριές μπότες τουρισμού, κατασκευασμένες από ανθεκτικό υλικό στην τριβή. Με 100% αδιάβροχη μεμβράνη και διπλό σύστημα στερέωσης με Velcro. Ξεχωρίζουν για την παροχή βέλτιστων επιπέδων άνεσης, απόδοσης και προστασίας. Νέος σχεδιασμός για μεγαλύτερη άνεση με διπλό σύστημα στερέωσης:
-
-ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ
-
-
-	Κατασκευασμένες κυρίως από συνθετικό τεχνικό υλικό, ενσωματώνοντας περιοχές flex από ακορντεόν μικροϊνών στο μπροστινό και πίσω μέρος για μέγιστη ευελιξία και άνεση κατά την οδήγηση
-	100% αδιάβροχη μεμβράνη μεταξύ του επάνω στρώματος και της εσωτερικής επένδυσης για δοκιμασμένη απόδοση σε αντίξοες καιρικές συνθήκες.
-	Ενίσχυση στην κνήμη για μεγαλύτερη προστασία από χτυπήματα
-	Εξωτερικό τμήμα της φτέρνας και της περιοχής μετατόπισης από TPU για εξαιρετική προστασία και ανθεκτικότητα.
-	Ρυθμιζόμενο σύστημα στερέωσης με Velcro&reg; στο πάνω μέρος του ποδιού και ιμάντα Velcro&reg; από κάτω. Τράβηγμα από TPR για πιο εύκολο κλείσιμο
-	Εσωτερικά προστατευτικά φτέρνας διπλής πυκνότητας ενισχυμένα με αφρό για μέγιστη άνεση και προστασία
-	Μύτες και φτέρνα με εσωτερικές ενισχύσεις για μεγαλύτερη ανθεκτικότητα και απόδοση
-	Αφαιρούμενη ανατομική εσωτερική σόλα με ύφασμα και αφρό EVA για μεγαλύτερη άνεση και στήριξη
-	Διαμορφωμένη σόλα της Alpinestars με σχεδιασμό wrap around
-	Επένδυση στην περιοχή του αστραγάλου για μεγαλύτερη άνεση
-	Ανακλαστικό στοιχείο στο πίσω μέρος για μεγαλύτερη ορατότητα σε νυχτερινή οδήγηση ή κάτω από κακό φωτισμό
-	Μπότες με πιστοποίηση CE
-
-]]></description>
-      <category_id>900</category_id>
-      <price>206</price>
+      <title><![CDATA[ARROW ΣΥΝΔΕΣΜΟΣ INOX ΓΙΑ HONDA NC 750 S '16-'20]]></title>
+      <description><![CDATA[HONDA NC 700 S '12-'14
+HONDA NC 700 X '12-'13
+HONDA NC 700 D INTEGRA '12-'13
+HONDA INTEGRA 750 DCT '14-'15
+HONDA NC 750 S '14-'15
+HONDA NC 750 X '14-'15
+HONDA INTEGRA 750 DCT '16-'20
+HONDA NC 750 X '16-'20]]></description>
+      <category_id>1</category_id>
+      <price>128</price>
+      <makemodels>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 700 S</model>
+          <yearfrom>2012</yearfrom>
+          <yearto>2014</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 700 X</model>
+          <yearfrom>2012</yearfrom>
+          <yearto>2013</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 700 D INTEGRA</model>
+          <yearfrom>2012</yearfrom>
+          <yearto>2013</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>INTEGRA 750 DCT</model>
+          <yearfrom>2014</yearfrom>
+          <yearto>2015</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 750 S</model>
+          <yearfrom>2014</yearfrom>
+          <yearto>2015</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 750 X</model>
+          <yearfrom>2014</yearfrom>
+          <yearto>2015</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>INTEGRA 750 DCT</model>
+          <yearfrom>2016</yearfrom>
+          <yearto>2020</yearto>
+        </makemodel>
+        <makemodel>
+          <make>HONDA</make>
+          <model>NC 750 X</model>
+          <yearfrom>2016</yearfrom>
+          <yearto>2020</yearto>
+        </makemodel>
+      </makemodels>
       <photos>
-        <photo>https://www.papastavroushops.gr/docs/Images/Products/c1ccd130-bc19-4ef2-8d9c-2dbebd0ff059.jpg</photo>
-        <photo>https://www.papastavroushops.gr/docs/Images/Products/51cc8405-d963-4777-a499-72adc8a4926a.jpg</photo>
+        <photo>https://www.papastavroushops.gr/docs/Images/Products/11030190-031-01.jpg</photo>
       </photos>
       <condition>new</condition>
       <debatable>false</debatable>
       <damaged>false</damaged>
-      <external_link>https://www.papastavroushops.gr/productlink/12404</external_link>
+      <external_link>https://www.papastavroushops.gr/productlink/7973</external_link>
     </classified>
   </classifieds>
 </cardealer>
