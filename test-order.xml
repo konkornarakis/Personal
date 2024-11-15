@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cardealer>
+  <lastupdate>2024-11-14T16:00:02Z</lastupdate>
+  <classifieds>
+    <classified>
+   <unique_id>4633</unique_id>
+   <manufacturer_number>71723AKN</manufacturer_number>
+   <aftermarket_number />
+   <title><![CDATA[ARROW EXHAUST ALUMINIUM DARK RACE-TECH CARBON END CAP KAWASAKI Z 750 R '11-'14]]></title>
+   <description><![CDATA[KAWASAKI Z 800 E '13-'16]]></description>
+   <category_id>776</category_id>
+   <price>406</price>
+<product_make>ARROW</product_make>
+   <makemodels>
+    <makemodel>
+     <make>KAWASAKI</make>
+     <model>Z 800 E</model>
+     <yearfrom>2013</yearfrom>
+     <yearto>2016</yearto>
+    </makemodel>
+   </makemodels>
+   <photos>
+    <photo>https://www.papastavroushops.gr/docs/Images/Products/11010190-011-01.jpg</photo>
+   </photos>
+   <condition>new</condition>
+   <debatable>false</debatable>
+   <damaged>false</damaged>
+   <external_link>https://www.papastavroushops.gr/productlink/4633</external_link>
+  </classified>
+  </classifieds>
+</cardealer>
